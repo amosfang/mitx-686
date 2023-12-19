@@ -1,7 +1,7 @@
 # My MITx Micromasters in Statistics and Data Science Journey
 
 ## Background
-I did my bachelor's and master's degree in Chemical Engineering with many numerical  courses because I enjoy watching computers solve linear algebra in MATLAB and C++. If I had a a profession I wanted choose so badly, it would be a role as a research scientist.
+I did my bachelor's and master's degree in Chemical Engineering with many numerical courses because I enjoy watching computers solve linear algebra in MATLAB and C++. If I had a a profession I wanted to choose so badly, it would be a role as a research scientist.
 
 ## 2023
 
@@ -29,6 +29,14 @@ As 2023 draws to an end, I decided to document my data science journey in order 
 | MITx Micromasters in Statistics and Data Science Comprehensive Exam | Apr 2024    |
 | GMAT Exam  | Apr 2024    |
 | MIT Climate Hack   | No dateline   |
+
+| Stack   | Project Experience |
+| -------- | ------------------ |
+| PySpark | Ingested 20GB of sensor data and performed data ETL, machine and deep learning on a road construction project |
+| Microsoft Azure AI services | Built an interactive chatbot using Microsoft AI Question and Answering and Language Services |
+| Tensorflow | Built an LSTM autoencoder and used its reconstruction loss to perform anomaly detection in vibration data |
+| Microsoft COCO | Used `labelImg` to annotate images and trained object detector model to identify taxis on Singapore's expressways |
+| Ditto | Other techniques learnt from building a chatbot, autoencoder and image classifier |
 
 --
 ## Micromasters in Statistics and Data Science course transcript
