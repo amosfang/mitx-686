@@ -19,10 +19,11 @@ As 2023 draws to an end, I decided to document my data science journey in order 
 | Google Cloud Platform Associate Cloud Engineer   | Oct 2023    |
 | MITx Micromasters in Supply Chain Management Comprehensive Exam | Nov 2023    |
 | MITx 6.419 Data Analysis  | Dec 2023    |
+| Nordic RoadAI Extended Paper (submitted)  | Dec 2023    |
 
 | Misses   | Expected date of Completion |
 | -------- | ------- |
-| Nordic RoadAI Extended Paper  | Dec 2023    |
+| ~~Nordic RoadAI Extended Paper~~  | ~~Dec 2023~~    |
 | Udacity Machine Learning DevOps Nanoegree| Jan 2024    |
 | Google Tensorflow Developer Certification | Jan 2024     |
 | Microsoft AI-102 Artificial Intelligence Exam   | Feb 2024    |
