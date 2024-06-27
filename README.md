@@ -24,12 +24,12 @@ As 2023 draws to an end, I decided to document my data science journey in order 
 | Misses   | Expected date of Completion |
 | -------- | ------- |
 | ~~Nordic RoadAI Extended Paper~~  | ~~Dec 2023~~    |
-| Udacity Machine Learning DevOps Nanoegree| Feb 205    |
-| Google Tensorflow Developer Certification | Did not attempt    |
+| Udacity Machine Learning DevOps Nanoegree| Feb 2025    |
+| Google Tensorflow Developer Certification (No longer available) | Did not attempt    |
 | ~~Microsoft AI-102 Artificial Intelligence Associate Exam~~   | ~~Apr 2024~~    |
 | ~~Microsoft DP-100 Data Scientist Associate Exam~~   | ~~Jun 2024~~    |
 | MITx Micromasters in Statistics and Data Science Comprehensive Exam | Nov 2024    |
-| GMAT Exam  | Apr 2024    |
+| GMAT Exam  | Dec 2024    |
 | MIT Climate Hack   | No dateline   |
 
 | Stack   | Project Experience |
